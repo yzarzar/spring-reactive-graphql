@@ -1,0 +1,17 @@
+type Query {
+    hello: String
+    helloWithName(name: String): String
+    getCustomer(id: ID): Customer
+    listAllCustomers: [Customer]
+    customers: [Customer]
+}
+
+type Customer {
+    id: ID
+    name: String
+    account: Account
+}
+
+type Account {
+    id: ID
+}
