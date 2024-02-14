@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b16ffcf-5c7a-44f9-8c34-df4bce71adda" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../api/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api/src/main/java/com/example/api/ApiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api/src/main/java/com/example/api/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api/src/main/java/com/example/api/records/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api/src/main/java/com/example/api/records/CustomerEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api/src/main/java/com/example/api/records/CustomerEventType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api/src/main/java/com/example/api/records/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api/src/main/java/com/example/api/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api/src/main/resources/graphql/schema.graphqls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api/src/main/resources/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api/src/test/java/com/example/api/ApiApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../batch/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../batch/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../batch/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../batch/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../batch/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../batch/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../batch/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../batch/src/main/java/com/graphql/batch/BatchApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../batch/src/main/java/com/graphql/batch/controller/BatchController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../batch/src/main/java/com/graphql/batch/records/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../batch/src/main/java/com/graphql/batch/records/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../batch/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../batch/src/main/resources/graphql/batch.graphqls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../batch/src/test/java/com/graphql/batch/BatchApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exception-handling-webflux/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exception-handling-webflux/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exception-handling-webflux/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exception-handling-webflux/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exception-handling-webflux/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exception-handling-webflux/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exception-handling-webflux/src/main/java/com/example/exceptionhandlingwebflux/customexception/CustomExceptionApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exception-handling-webflux/src/main/java/com/example/exceptionhandlingwebflux/customexception/config/ErrorDetailsSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exception-handling-webflux/src/main/java/com/example/exceptionhandlingwebflux/customexception/config/ProblemDetailsSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exception-handling-webflux/src/main/java/com/example/exceptionhandlingwebflux/customexception/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exception-handling-webflux/src/main/java/com/example/exceptionhandlingwebflux/customexception/exception/CustomErrorException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exception-handling-webflux/src/main/java/com/example/exceptionhandlingwebflux/customexception/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exception-handling-webflux/src/main/java/com/example/exceptionhandlingwebflux/customexception/exception/UserNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exception-handling-webflux/src/main/java/com/example/exceptionhandlingwebflux/customexception/model/CustomErrorResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exception-handling-webflux/src/main/java/com/example/exceptionhandlingwebflux/customexception/model/Error.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exception-handling-webflux/src/main/java/com/example/exceptionhandlingwebflux/customexception/model/ErrorDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exception-handling-webflux/src/main/java/com/example/exceptionhandlingwebflux/customexception/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exception-handling-webflux/src/main/java/com/example/exceptionhandlingwebflux/springreactiveexceptions/ExceptionHandlingWebfluxApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exception-handling-webflux/src/main/java/com/example/exceptionhandlingwebflux/springreactiveexceptions/client/DemoSelfClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exception-handling-webflux/src/main/java/com/example/exceptionhandlingwebflux/springreactiveexceptions/config/BeanConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exception-handling-webflux/src/main/java/com/example/exceptionhandlingwebflux/springreactiveexceptions/config/Router.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exception-handling-webflux/src/main/java/com/example/exceptionhandlingwebflux/springreactiveexceptions/config/WebFluxConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exception-handling-webflux/src/main/java/com/example/exceptionhandlingwebflux/springreactiveexceptions/handler/DataProcessingHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exception-handling-webflux/src/main/java/com/example/exceptionhandlingwebflux/springreactiveexceptions/handler/TriggerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exception-handling-webflux/src/main/java/com/example/exceptionhandlingwebflux/springreactiveexceptions/model/Friend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exception-handling-webflux/src/main/java/com/example/exceptionhandlingwebflux/springreactiveexceptions/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exception-handling-webflux/src/main/java/com/example/exceptionhandlingwebflux/springreactiveexceptions/model/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exception-handling-webflux/src/main/resources/390KB.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exception-handling-webflux/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exception-handling-webflux/src/test/java/com/example/exceptionhandlingwebflux/ExceptionHandlingWebfluxApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphql-api/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphql-api/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphql-api/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphql-api/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphql-api/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphql-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphql-api/src/main/java/com/spring/graphqlapi/GraphqlApiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphql-api/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphql-api/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphql-api/src/main/resources/graphql/schema.graphqls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphql-api/src/main/resources/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphql-api/src/test/java/com/spring/graphqlapi/GraphqlApiApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphql-exception-handling/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphql-exception-handling/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphql-exception-handling/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphql-exception-handling/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphql-exception-handling/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphql-exception-handling/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphql-exception-handling/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphql-exception-handling/src/main/java/com/graphql/graphqlexceptionhandling/GraphqlExceptionHandlingApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphql-exception-handling/src/main/java/com/graphql/graphqlexceptionhandling/controller/BookGraphqlController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphql-exception-handling/src/main/java/com/graphql/graphqlexceptionhandling/domain/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphql-exception-handling/src/main/java/com/graphql/graphqlexceptionhandling/domain/model/BookInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphql-exception-handling/src/main/java/com/graphql/graphqlexceptionhandling/domain/repository/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphql-exception-handling/src/main/java/com/graphql/graphqlexceptionhandling/domain/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphql-exception-handling/src/main/java/com/graphql/graphqlexceptionhandling/domain/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphql-exception-handling/src/main/java/com/graphql/graphqlexceptionhandling/exception/BadRequestException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphql-exception-handling/src/main/java/com/graphql/graphqlexceptionhandling/exception/NotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphql-exception-handling/src/main/java/com/graphql/graphqlexceptionhandling/exception/UnprocessableEntityException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphql-exception-handling/src/main/java/com/graphql/graphqlexceptionhandling/exception/handler/GraphQLExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphql-exception-handling/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphql-exception-handling/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphql-exception-handling/src/main/resources/graphql/book.graphql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphql-exception-handling/src/main/resources/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphql-exception-handling/src/test/java/com/graphql/graphqlexceptionhandling/GraphqlExceptionHandlingApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../plugins/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../plugins/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../plugins/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../plugins/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../plugins/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../plugins/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../plugins/src/main/java/com/example/plugins/PluginsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../plugins/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../plugins/src/test/java/com/example/plugins/PluginsApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2cLalLfs9ld4dA3LyfgW27Rfztf" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="spring-exception-handling-graphql-vs-rest-main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="spring-exception-handling-graphql-vs-rest-main" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionHandlingGraphqlVsRest" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="spring-exception-handling-graphql-vs-rest" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.polovyi.ivan.ExceptionHandlingGraphqlVsRest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b16ffcf-5c7a-44f9-8c34-df4bce71adda" name="Changes" comment="" />
+      <created>1707893462811</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707893462811</updated>
+      <workItem from="1707893468532" duration="651000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
